@@ -1,4 +1,4 @@
- ''''Verificar palíndromo
+''''Verificar palíndromo
 
 Escreva um programa que verifica se uma string é um palíndromo.
 '''
