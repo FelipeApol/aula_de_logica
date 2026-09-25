@@ -1,0 +1,3 @@
+palavra = "python"
+invertida = palavra[::-1]
+print(invertida)  
